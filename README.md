@@ -19,7 +19,7 @@ You can enter the file(part 1_solution.ipynb)
  
  #### 4  What features are important
  * Check which features are important to the model.
- #### 5 score
+ #### 5 Model Accuracy
  * After the whole process works the result I got is:
  ### 0.999818181818181818
  You can see the whole process the  file:(part 2_solution.ipynb)
